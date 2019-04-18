@@ -16,6 +16,10 @@ Wallpaper in screenshots is here:
 https://www.opendesktop.org/p/1279630/
 
 
+I used the Lounge theme to make my GTK theme and it can be found here:
+https://www.gnome-look.org/p/1258756/
+
+
 
 GTK screenshots:
 
