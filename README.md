@@ -73,3 +73,8 @@ Normal kde screenshots:
 
 ![Screenshot_20190418_111917](https://user-images.githubusercontent.com/41884680/56377036-05815f80-61cf-11e9-8541-e24943b49d3c.png)
 
+![Screenshot_20190418_114944](https://user-images.githubusercontent.com/41884680/56377471-239b8f80-61d0-11e9-821d-6165ea37f7c4.png)
+
+![Screenshot_20190418_115006](https://user-images.githubusercontent.com/41884680/56377473-239b8f80-61d0-11e9-916c-5106f22010a2.png)
+
+
