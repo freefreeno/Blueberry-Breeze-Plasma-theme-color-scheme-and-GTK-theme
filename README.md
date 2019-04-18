@@ -35,3 +35,5 @@ GTK screenshots:
 
 ![Screenshot_20190418_110820](https://user-images.githubusercontent.com/41884680/56376867-a1f73200-61ce-11e9-9c9a-3f35fc6fa288.png)
 
+Normal kde screenshots:
+
